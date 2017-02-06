@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Shopper</string>
+    <string name="action_button">Save</string>
+    <string name="please">Please fill in the following details: </string>
+
+    <!--Dialog strings for list-->
+    <string name="titleDialog">Warning!</string>
+    <string name="messageDialog">This item is already on the list</string>
+    <string name="ok">Ok</string>
+
+    <!--Dialog strings for saving-->
+    <string name="titleDialogSave">Do you want to save and exit?</string>
+    <string name="messageDialogSave">The total count is: </string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
